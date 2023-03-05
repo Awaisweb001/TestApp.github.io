@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1E90FF;
+}
+.frm{
+    border: 1px solid;
+}
+.checkcv{
+    position: fixed;
+    height: 8vh;
+    width: 10vw;
+    border: none;
+    border-radius: 50px;
+    top: 10%;
+    right: 10%;
+}
